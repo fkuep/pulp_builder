@@ -1,7 +1,7 @@
 ## github finally supports mermaid
 
 ```mermaid
-%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
+%%{init: {'theme': 'neutral', "flowchart" : { "curve" : "basis" } } }%%
 
 graph TD;
     A-->B;
